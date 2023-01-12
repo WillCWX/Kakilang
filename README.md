@@ -1,3 +1,25 @@
+# END OF PROJECT ORBITAL
+Hi, this is William. As Orbital has come to an end, this is the last commit that will occur before I archive my fork.  
+Hence, some reflection and conclusion is necessary to close of this chapter of learning.  
+   
+- Working with my friend Dylan was a fantastic idea. He is a great teammate, a great leader and a great friend to have.  
+- Though we started strong, due to some of my own personal issues, I had to push a lot of my burdens onto Dylan.  
+This slowed down development and left a lot of tasks unfinished. On hindsight, some tasks should have been more efficiently done 
+(database management was a pain when refactoring) and some were too ambitious to try to do (media embedding in messages).  
+- It was a fun and rich experience learning about the MERN stack and developing our own secure* password authentication, JSWT session authentication, User CRUD, 
+Event CRUD, Event subscription, direct and group chat messaging.  
+- Also, the fact that Dylan came up with the UI design himself was also impressive. Though 
+unfortunately, we had to move to material UI due to time constraints and being advised it was not "professional-looking" enough. 
+(We were shocked, angry and frustrated that the beautiful designs of other entries were all from UI libraries like material UI).  
+- The idea of MVP (minimal viable product) was not something I was familiar with, and learning when to stop overdeveloping a feature to focus on an underdeveloped 
+feature was something essential to learn.  
+- Documentation and project management were all something I learned for the first time as well. They should be short, sweet and to the point!
+- Testing! Test-driven development was something I had no idea about and in hindsight, would have made my code much better, much more readable and much more elegant.
+- I still don't know how to test a website (back-end & database tests are ok) and how to have CI and CD
+  
+All in all, this was a fun and wonderful experience. Thank you, Dylan, Orbital, and Kakilang!
+![Kakilang!](https://user-images.githubusercontent.com/55905659/212109246-b911dcd6-9a1a-4949-bde1-9fb3cc7ad1eb.png)
+
 # Kakilang Social Website for Orbital
 
 ## **Proposal for Orbital 2022**
